@@ -17,9 +17,11 @@
         </div>
         <form
           class="lg:w-1/2 md:w-2/3 mx-auto text-white"
-          name="livescores-contact"
+          name="contact"
           method="POST"
           netlify
+          data-netlify="true"
+          action="/thanks"
         >
           <div class="flex flex-wrap -m-2">
             <div class="p-2 w-1/2">
