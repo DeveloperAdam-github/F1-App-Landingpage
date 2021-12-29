@@ -26,9 +26,7 @@
           <div class="flex flex-wrap -m-2">
             <div class="p-2 w-1/2">
               <div class="relative">
-                <label
-                  for="name"
-                  class="leading-7 text-sm text-white dark:text-white"
+                <label class="leading-7 text-sm text-white dark:text-white"
                   >Name</label
                 >
                 <input
@@ -41,9 +39,7 @@
             </div>
             <div class="p-2 w-1/2">
               <div class="relative">
-                <label
-                  for="email"
-                  class="leading-7 text-sm text-white dark:text-white"
+                <label class="leading-7 text-sm text-white dark:text-white"
                   >Email</label
                 >
                 <input
@@ -56,9 +52,7 @@
             </div>
             <div class="p-2 w-full">
               <div class="relative">
-                <label
-                  for="message"
-                  class="leading-7 text-sm text-white dark:text-white"
+                <label class="leading-7 text-sm text-white dark:text-white"
                   >Message</label
                 >
                 <textarea
