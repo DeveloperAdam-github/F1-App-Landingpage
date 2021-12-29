@@ -18,9 +18,10 @@
         <form
           class="lg:w-1/2 md:w-2/3 mx-auto text-white"
           name="contact"
-          method="POST"
-          netlify
+          method="post"
           data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          netlify
         >
           <input type="hidden" name="form-name" value="contact" />
           <div class="flex flex-wrap -m-2">
