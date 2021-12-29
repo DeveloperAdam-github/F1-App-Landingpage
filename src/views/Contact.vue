@@ -21,7 +21,6 @@
           method="POST"
           netlify
           data-netlify="true"
-          action="/thanks"
         >
           <div class="flex flex-wrap -m-2">
             <div class="p-2 w-1/2">
