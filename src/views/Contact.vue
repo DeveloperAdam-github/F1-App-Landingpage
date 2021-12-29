@@ -25,6 +25,8 @@
           <div class="flex flex-wrap -m-2">
             <div class="p-2 w-1/2">
               <div class="relative">
+                <input type="hidden" name="contact" value="contact" />
+
                 <label
                   for="name"
                   class="leading-7 text-sm text-white dark:text-white"
