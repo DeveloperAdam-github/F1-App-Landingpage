@@ -7,7 +7,7 @@
         <p
           class="text-secondary dark:text-primary sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-purple sm:py-2 sm:mt-0 mt-4 font-headline text-xs"
         >
-          © 2021 F1 Stats<i
+          © 2021 Formula GP<i
             class="text-purple fas fa-flag-checkered text-xs ml-2"
           ></i>
           -
@@ -19,6 +19,14 @@
             >@DeveloperAdam</a
           >
         </p>
+        <div class="w-2/3 flex justify-end mt-2 md:mt-0">
+          <router-link class="mr-2 cursor-pointer" :to="{ name: 'Privacy' }"
+            >Privacy Policy</router-link
+          >
+          <router-link class="ml-2 cursor-pointer" :to="{ name: 'Terms' }"
+            >Terms & Conditions</router-link
+          >
+        </div>
         <span
           class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start"
         >

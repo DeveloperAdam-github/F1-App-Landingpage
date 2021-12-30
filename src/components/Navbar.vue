@@ -3,7 +3,7 @@
     class="bg-primary dark:bg-secondary text-secondary dark:text-primary h-10vh w-full border-b md:border-0 border-gray-400 flex font-boldHeadline text-base lg:text-xl justify-between px-4 md:px-10 items-center"
   >
     <div>
-      <h1>F1 Stats<i class="text-purple fas fa-flag-checkered ml-2"></i></h1>
+      <h1>Formula GP<i class="text-purple fas fa-flag-checkered ml-2"></i></h1>
     </div>
     <div class="w-2/5 lg:w-1/4 flex justify-between items-center">
       <router-link class="" :to="{ name: 'Home' }">Home</router-link>
