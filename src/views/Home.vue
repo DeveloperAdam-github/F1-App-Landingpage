@@ -14,7 +14,11 @@
           </p>
 
           <div class="flex flex-col">
-            <router-link class="flex items-start" :to="{ name: 'ComingSoon' }">
+            <a
+              class="flex items-start"
+              href="https://apps.apple.com/gb/app/formula-gp-2k/id1602496701"
+              target="_blank"
+            >
               <button
                 class="m-10 flex w-52 text-white bg-purple border-0 py-2 px-4 focus:outline-none items-center text-left hover:bg-red-700 rounded text-xs font-headline"
               >
@@ -26,7 +30,7 @@
                   <p class="text-lg font-bold">App Store</p>
                 </div>
               </button>
-            </router-link>
+            </a>
           </div>
         </div>
       </div>
@@ -110,7 +114,7 @@ export default {
 </script>
 
 <style scoped>
-button:hover p {
+/* button:hover p {
   display: none;
 }
 
@@ -124,5 +128,5 @@ button:hover:before {
   font-size: 20px;
   text-decoration: underline;
   line-height: 20px;
-}
+} */
 </style>
