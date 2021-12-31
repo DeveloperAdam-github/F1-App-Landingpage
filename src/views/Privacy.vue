@@ -8,7 +8,7 @@
       >
         <h2 class="text-sm font-boldHeadline mt-2">Privacy Policy</h2>
         <p>
-          DeveloperAdam built the F1 Stats app as a Free app. This SERVICE is
+          DeveloperAdam built the Formula GP app as a Free app. This SERVICE is
           provided by DeveloperAdam at no cost and is intended for use as is.
           This page is used to inform visitors regarding my policies with the
           collection, use, and disclosure of Personal Information if anyone
@@ -18,8 +18,8 @@
           and improving the Service. I will not use or share your information
           with anyone except as described in this Privacy Policy. The terms used
           in this Privacy Policy have the same meanings as in our Terms and
-          Conditions, which are accessible at F1 Stats unless otherwise defined
-          in this Privacy Policy.
+          Conditions, which are accessible at Formula GP unless otherwise
+          defined in this Privacy Policy.
         </p>
 
         <h2 class="text-sm font-boldHeadline mt-2">Log Data</h2>
@@ -101,7 +101,7 @@
         <h2 class="text-sm font-boldHeadline mt-2">Contact Us</h2>
         <p>
           If you have any questions or suggestions about my Privacy Policy, do
-          not hesitate to contact me at f1statsapp@gmail.com.
+          not hesitate to contact me at formulagpcontact@gmail.com.
         </p>
       </h1>
     </div>

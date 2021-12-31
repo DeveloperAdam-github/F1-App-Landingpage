@@ -5,7 +5,7 @@
         class="container px-5 py-2 mx-auto flex items-center sm:flex-row flex-col"
       >
         <p
-          class="text-secondary dark:text-primary sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-purple sm:py-2 sm:mt-0 mt-4 font-headline text-xs"
+          class="text-secondary dark:text-primary sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-purple sm:py-2 sm:mt-0 mt-4 font-headline text-xs w-2/3"
         >
           © 2021 Formula GP<i
             class="text-purple fas fa-flag-checkered text-xs ml-2"

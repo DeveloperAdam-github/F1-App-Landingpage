@@ -21,7 +21,7 @@
           possible. For that reason, we reserve the right to make changes to the
           app or to charge for its services, at any time and for any reason. We
           will never charge you for the app or its services without making it
-          very clear to you exactly what you’re paying for. The F1 Stats app
+          very clear to you exactly what you’re paying for. The Formula GP app
           stores and processes personal data that you have provided to us, to
           provide my Service. It’s your responsibility to keep your phone and
           access to the app secure. We therefore recommend that you do not
@@ -29,7 +29,7 @@
           software restrictions and limitations imposed by the official
           operating system of your device. It could make your phone vulnerable
           to malware/viruses/malicious programs, compromise your phone’s
-          security features and it could mean that the F1 Stats app won’t work
+          security features and it could mean that the Formula GP app won’t work
           properly or at all. The app does use third-party services that declare
           their Terms and Conditions. Link to Terms and Conditions of
           third-party service providers used by the app Google Play Services You
@@ -89,7 +89,8 @@
         <h2 class="text-sm font-boldHeadline mt-2">Contact Us</h2>
         <p>
           If you have any questions or suggestions about my Terms and
-          Conditions, do not hesitate to contact me at f1statsapp@gmail.com.
+          Conditions, do not hesitate to contact me at
+          formulagpcontact@gmail.com.
         </p>
       </h1>
     </div>
